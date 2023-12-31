@@ -1,2 +1,2 @@
-# health-log
+# healthlog
 Health log mobile application.
